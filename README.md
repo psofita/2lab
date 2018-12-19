@@ -1,1 +1,1 @@
-# 2lab
+# Implementing steple sequence check using c++ stack.
