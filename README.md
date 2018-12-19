@@ -1,1 +1,1 @@
-# Implementing steple sequence check using c++ stack.
+Implementing steple sequence check using c++ stack.
